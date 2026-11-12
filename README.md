@@ -77,7 +77,7 @@ The repository contains a manually transcribed sample and a labelled retrieval e
 
 ### Manual source-check workflow, 08/10/2026
 
-Four of four adapters returned accepted records and produced 67 records. The action published a compact summary, not source response bodies. This is one dated run, not a guarantee of current availability. [Run details](https://github.com/WhiteBlindness/callbrief/actions/runs/37701724994)
+Four of four adapters returned accepted records and produced 67 records. The action published a compact summary, not source response bodies. This is one dated run, not a guarantee of current availability. [Run details](https://github.com/DoArtMonteiro/callbrief/actions/runs/37701724994)
 
 ### Manually transcribed evaluation corpus
 
@@ -151,10 +151,10 @@ python -m evals.real_corpus_benchmark
 
 ## Development timeline
 
-- **27/09/2026:** evidence-linked funding-call review introduced in [commit `cd63327`](https://github.com/WhiteBlindness/callbrief/commit/cd63327).
-- **07/10/2026:** funding-source intelligence and evidence-backed assessments added in [PR #1](https://github.com/WhiteBlindness/callbrief/pull/1).
-- **07/10/2026:** reproducible manual checks for live adapters added through [PR #3](https://github.com/WhiteBlindness/callbrief/pull/3) and [PR #4](https://github.com/WhiteBlindness/callbrief/pull/4).
-- **08/10/2026:** the v0.2 official-source adapters and evaluation pipeline integrated in [commit `b0f1c2c`](https://github.com/WhiteBlindness/callbrief/commit/b0f1c2ca3bc0df8c0121c14bb581faf7a72336f2).
+- **27/09/2026:** evidence-linked funding-call review introduced in [commit `cd63327`](https://github.com/DoArtMonteiro/callbrief/commit/cd63327).
+- **07/10/2026:** funding-source intelligence and evidence-backed assessments added in [PR #1](https://github.com/DoArtMonteiro/callbrief/pull/1).
+- **07/10/2026:** reproducible manual checks for live adapters added through [PR #3](https://github.com/DoArtMonteiro/callbrief/pull/3) and [PR #4](https://github.com/DoArtMonteiro/callbrief/pull/4).
+- **08/10/2026:** the v0.2 official-source adapters and evaluation pipeline integrated in [commit `b0f1c2c`](https://github.com/DoArtMonteiro/callbrief/commit/b0f1c2ca3bc0df8c0121c14bb581faf7a72336f2).
 
 These dates describe commits and integration. They are not launch or commercial-acceptance dates.
 
